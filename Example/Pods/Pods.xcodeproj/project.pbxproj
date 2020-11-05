@@ -43,19 +43,19 @@
 /* Begin PBXFileReference section */
 		0483EEB89598992C78F6A1A67B4498E5 /* LNJSONModel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LNJSONModel-umbrella.h"; sourceTree = "<group>"; };
 		08CA197690D16F22D7B87D9F626C0D49 /* LNJsonHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LNJsonHeader.h; path = LNJSONModel/Classes/LNJsonHeader.h; sourceTree = "<group>"; };
-		188EA876D302772C89CC96E51D845E53 /* Pods_LNJSONModel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LNJSONModel_Tests.framework; path = "Pods-LNJSONModel_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		188EA876D302772C89CC96E51D845E53 /* Pods_LNJSONModel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LNJSONModel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A15512A2839AC8F5CE9F1E056A6116C /* Pods-LNJSONModel_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LNJSONModel_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		236DE4021D0C2C39EAE5BC343F3861E9 /* Pods-LNJSONModel_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LNJSONModel_Tests.modulemap"; sourceTree = "<group>"; };
 		29CC415E8CB181BF9B576C7821287B7D /* Pods-LNJSONModel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LNJSONModel_Example.modulemap"; sourceTree = "<group>"; };
 		2BFADBC4355B1A34717BFA663DD9AD2E /* LNJSONModel-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LNJSONModel-Info.plist"; sourceTree = "<group>"; };
-		2DCC39A6AF2E0E9C8F16E06001EE8B6A /* Pods_LNJSONModel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LNJSONModel_Example.framework; path = "Pods-LNJSONModel_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2DE762C37940EB8DDE2653D5821E71AB /* LNJSONModel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LNJSONModel.framework; path = LNJSONModel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DCC39A6AF2E0E9C8F16E06001EE8B6A /* Pods_LNJSONModel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LNJSONModel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DE762C37940EB8DDE2653D5821E71AB /* LNJSONModel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LNJSONModel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		335B58AF4BB81455F1D61896F6542C1A /* LNJSONModel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LNJSONModel.debug.xcconfig; sourceTree = "<group>"; };
 		3ACB03AA78DBAA34D4895A6AB3E4AD2F /* NSObject+LNModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+LNModel.m"; path = "LNJSONModel/Classes/NSObject+LNModel.m"; sourceTree = "<group>"; };
 		3AF358CDD03E35E4D2ED3FA258F1A7BD /* Pods-LNJSONModel_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LNJSONModel_Tests-Info.plist"; sourceTree = "<group>"; };
 		3B562EA4322100B2C0CEFADDB86FEE97 /* Pods-LNJSONModel_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LNJSONModel_Example-frameworks.sh"; sourceTree = "<group>"; };
-		62C2300B343F156FC403DC46F35670AB /* LNJSONModel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LNJSONModel.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		6538EC181B973006FDE01EBA7BA0775B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		62C2300B343F156FC403DC46F35670AB /* LNJSONModel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LNJSONModel.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		6538EC181B973006FDE01EBA7BA0775B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		69CA326F1CE18D3DA1B3A7733A92792F /* Pods-LNJSONModel_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LNJSONModel_Tests-dummy.m"; sourceTree = "<group>"; };
 		6FCCD6E3D2AD451946DFA236C76F6AB8 /* LNJSONModel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LNJSONModel.release.xcconfig; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -64,11 +64,11 @@
 		89A268681FF0710FB9EB8037C9890027 /* Pods-LNJSONModel_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LNJSONModel_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		89A587D183E7A5FEA2B4BA7B1E4E71D0 /* NSArray+LNModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+LNModel.h"; path = "LNJSONModel/Classes/NSArray+LNModel.h"; sourceTree = "<group>"; };
 		9BEC8FBCCAF68B2B76B0FB309119980C /* NSArray+LNModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+LNModel.m"; path = "LNJSONModel/Classes/NSArray+LNModel.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F9907809E8D33457FE0D869CAB6A54B /* Pods-LNJSONModel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LNJSONModel_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A10E827E11C19B0011F56F04F6A31997 /* Pods-LNJSONModel_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LNJSONModel_Example-Info.plist"; sourceTree = "<group>"; };
 		B3551B0B517EE77AFCEC2A7036F2B1AF /* Pods-LNJSONModel_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LNJSONModel_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		C4858A57F0BDAE566FC780CBCE57A6BC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		C4858A57F0BDAE566FC780CBCE57A6BC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		CADBCF4A27452F2ECDC44E737559F4C7 /* LNJSONModel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LNJSONModel.modulemap; sourceTree = "<group>"; };
 		D10DCDD36289B82A09F46E6A1AD06910 /* Pods-LNJSONModel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LNJSONModel_Example-dummy.m"; sourceTree = "<group>"; };
 		D640CD3ACA246504444F871ECB46C191 /* Pods-LNJSONModel_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LNJSONModel_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -570,8 +570,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
