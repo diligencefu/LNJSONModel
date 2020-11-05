@@ -1,0 +1,6 @@
+framework module Pods_LNJSONModel_Example {
+  umbrella header "Pods-LNJSONModel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
